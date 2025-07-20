@@ -33,3 +33,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 AI/ML: Gemini Pro, Google PaLM, RunwayML API (for video generation), Veo 3.0
 3D Visualization: Three.js
+
+
+
+IMAGE WE UPLOADED IN GITHUB
